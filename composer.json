@@ -19,7 +19,6 @@
         "flarum-extension": {
             "title": "Tiếng việt",
             "icon": {
-                "image": "icon.svg",
                 "backgroundColor": "#00247d",
                 "backgroundSize": "cover",
                 "backgroundPosition": "center"
