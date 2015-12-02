@@ -1,2 +1,0 @@
-# flarum
-Flarum Vietnamese
