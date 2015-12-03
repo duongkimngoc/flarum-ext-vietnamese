@@ -19,7 +19,7 @@ flarum-suspend:
       indefinitely_label: Đình chỉ ngay
       limited_time_label: Dình chỉ trong thời gian...
       limited_time_days_text: " days"
-      not_suspended_label: Not suspended
+      not_suspended_label: Chưa đình chỉ
       status_heading: Tình trạng
       submit_button: => core.ref.save_changes
       title: "Suspend {user}"

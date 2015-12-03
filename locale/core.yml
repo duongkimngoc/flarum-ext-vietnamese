@@ -30,7 +30,7 @@ core:
       home_page_text: "Chọn trang hiển thị khi user truy cập lần đầu tiên vào diễn đàn. Nếu nhập vào, được dùng để hiển thị thay thế trang mặc định."
       saved_message: Lưu thông tin thành công.
       submit_button: => core.ref.save_changes
-      welcome_banner_heading: Welcome Banner
+      welcome_banner_heading: Lời chào
       welcome_banner_text: Thêm đoạn mô tả dùng để hiển thị cho tất cả các trang thảo luận. Dùng như lời chào mừng thành viên mới.
 
     # These translations are used in the Dashboard page.
@@ -82,7 +82,7 @@ core:
     # These translations are used in the navigation bar.
     nav:
       appearance_button: Giao diện
-      appearance_text: "Customize your forum's colors, logos, and other variables."
+      appearance_text: "Tùy chính màu, logo, và các tham số khác trong diễn đàn."
       basics_button: Cơ bản
       basics_text: "Thiết lập tiêu đề, ngôn ngũ, và thông tin khác cho diễn đàn."
       dashboard_button: Bảng điều khiển
@@ -90,7 +90,7 @@ core:
       extensions_button: Phần mở rộng
       extensions_text: Add extra functionality to your forum and make it your own.
       permissions_button: Quyền truy cập
-      permissions_text: Configure who can see and do what.
+      permissions_text: Thiết lập những người có quyền xem và thao tác.
 
     # These translations are used in the Permissions page of the admin interface.
     permissions:
@@ -117,7 +117,7 @@ core:
       allow_indefinitely_button: Không giới hạn
       allow_some_minutes_button: "For {count} minute|For {count} minutes"
       allow_ten_minutes_button: Khoảng 10 phút
-      allow_until_reply_button: Until next reply
+      allow_until_reply_button: Chờ đến phản hồi tiếp
       everyone_button: Tất cả mọi người
       members_button: => core.group.members
       signup_closed_button: Đã đóng
@@ -152,11 +152,11 @@ core:
 
     # These translations are used by the composer when starting a discussion.
     composer_discussion:
-      body_placeholder: Write a Post...
+      body_placeholder: Viết bài...
       discard_confirmation: "You have not posted your discussion. Do you wish to discard it?"
-      submit_button: Post Discussion
+      submit_button: Đăng bài
       title: => core.ref.start_a_discussion
-      title_placeholder: Discussion Title
+      title_placeholder: Tiêu đề
 
     # These translations are used by the composer when editing a post.
     composer_edit:
@@ -190,8 +190,8 @@ core:
       empty_text: "It looks like there are no discussions here."
       load_more_button: => core.ref.load_more
       mark_as_read_tooltip: Đánh dấu đã đọc
-      replied_text: "{username} replied {ago}"
-      started_text: "{username} started {ago}"
+      replied_text: "{username} đã phản hồi {ago}"
+      started_text: "{username} đã đăng {ago}"
 
     # These translations are used in the Edit User modal dialog (admin function).
     edit_user:
@@ -257,7 +257,7 @@ core:
     # These translations are used by tooltips displayed for individual posts.
     post:
       edited_tooltip: "{username} đã cập nhật {ago}"
-      number_tooltip: "Post #{number}"
+      number_tooltip: "Bài viết #{number}"
 
     # These translations are used by the post control buttons.
     post_controls:
