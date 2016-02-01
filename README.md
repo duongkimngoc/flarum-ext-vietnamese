@@ -26,37 +26,34 @@ Gói ngôn ngữ được tương thích với những thành phần mở rộng
     - [Laravel](https://github.com/laravel/laravel)'s Validation [5.1.11](https://github.com/laravel/laravel/releases/tag/v5.1.11)
     - [Moment.js](https://github.com/moment/moment) [2.10.6](https://github.com/moment/moment/releases/tag/2.10.6)
 
-Released under the MIT license. Please see the [license terms](https://github.com/maelsoucaze/flarum/blob/master/LICENSE).
+Released under the MIT license. Xem thêm mục [license terms](https://github.com/maelsoucaze/flarum/blob/master/LICENSE).
 
-## Installation
+## Hướng dẫn cài đặt
 
-### Using Composer
+### Dùng trình quản lý gói Composer
 
-Flarum use Composer to manage its dependencies and extensions. The French language pack is available [on Packagist](https://packagist.org/packages/maelsoucaze/french) and can be managed that way. Make sure that [Composer](https://getcomposer.org/) is installed on your machine, then run the following command in the location where Flarum is installed:
+Dùng trình quản lý gói trong dự án của bạn và chạy dòng lệnh sau:
 
 ```
-composer require maelsoucaze/french
+composer require laptrinhphp/flarum-ext-vietnamese
 ```
 
-The same command can be used to update independently the French language pack, without updating anything else. Note that because the French language pack will be added as a Flarum's dependency, it will also be automatically updated when updating Flarum and its dependencies via Composer.
 
-### Manual Installation
+### Cách cài đặt thông thường
 
-1. Download [the latest stable release](https://github.com/maelsoucaze/flarum/releases) (or [the latest development build](https://github.com/maelsoucaze/flarum/archive/master.zip)).
-2. Unpack the downloaded archive with [a file archiver](https://en.wikipedia.org/wiki/Comparison_of_file_archivers).
-3. Log in to your server via [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol), [SSH](https://en.wikipedia.org/wiki/Secure_Shell) or your provider's control panel.
-4. Navigate to the *extensions/* directory of your Flarum installation.
-5. Create a *maelsoucaze-french/* subdirectory into it.
-6. Upload all the content in the unpacked folder to this subdirectory.
+1. Tải [phiên bản mới nhất tại](https://github.com/laptrinhphp/flarum-ext-vietnamese/releases) (hoặc [tải phiển bản đang phát triển mới nhất tại](https://github.com/laptrinhphp/flarum-ext-vietnamese/archive/master.zip)).
+2. Giải nép file bằng [a file archiver](https://en.wikipedia.org/wiki/Comparison_of_file_archivers).
+3. Truy cập vào server của bản qua [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol), [SSH](https://en.wikipedia.org/wiki/Secure_Shell) hoặc trình quản lý của bạn.
+4. Chuyển qua thư mục *extensions/* tại mục cài đặt của Flarum.
+5. Tạo mới thư mục con *flarum-ext-vietnamese/*  trong thư mục *extensions/* .
+6. Tải nội dung ngôn ngữ mà bạn vừa giải nén vào thư mục.
 
-## Contributing
+## Đóng góp
 
-Thank you a lot to wish to contribute. I sincerely appreciate your commitment. Using the language pack is already a huge support, but best other ways to contribute are:
+Bạn có thể đóng góp mới các nội dung về ngôn ngữ. Hoặc truy cập diễn đàn Lập trình PHP để cùng học hỏi các thủ thuật mới nhất. 
 
-- Star on GitHub. Because if you use it and like it, you can at least be a stargazer!
-- Follow on GitHub. You will be notified in real time of all changes. No more misses!
-- Report [issues](https://github.com/maelsoucaze/flarum/issues) on GitHub. Any feedback is welcome.
-- Open pull requests on GitHub to submit fixes and improvements. Be listed as a [contributor](https://github.com/maelsoucaze/flarum/graphs/contributors)!
-- Join [the language pack's discussion](https://discuss.flarum.org/d/615-french-language-pack) on the Flarum community.
-- Follow me [on Twitter](https://twitter.com/maelsoucaze). Promise, I don't spam pictures of kittens and puppies (too much).
-- Let's have a drink if you are near Paris!
+Các liên kết
+
+- Diễn đàn [Cộng đồng flarum](https://discuss.flarum.org).
+- Diễn đàn Lập trình PHP [ cộng đồng flarum](http://diendan.laptrinhphp.edu.vn).
+
