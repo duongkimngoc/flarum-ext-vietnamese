@@ -7,6 +7,12 @@ core:
   # Translations in this namespace are used by the admin interface.
   admin:
 
+    # These translations are used in the placeholder Add Extension modal dialog.
+    add_extension:
+      developer_text: "Nếu bạn là nhà phát triển, vui lòng tham khảo thêm tại mục <a>tài liệu</a> và cùng xây dựng các tiện ích mở rộng."
+      install_text: "Cách khác, bạn có thể xem các tiện ích mở rộng tại <a>trang cộng đồng flarum</a> và cài đặt qua trình quản lý gói Composer."
+      temporary_text: "Các tính năng mới sẽ được cập dễ dàng trong tương lai , một hộp thoại hiện lên và cho phép bạn thêm các tiện ích một cách dễ dàng . Chúng tôi đang xây dựng hệ thống như đã nêu!"
+
     # These translations are used in the Appearance page.
     appearance:
       colored_header_label: Màu ở tiêu đề
@@ -35,14 +41,14 @@ core:
 
     # These translations are used in the Dashboard page.
     dashboard:
-      beta_warning_text: "This <strong>beta software</strong> is provided primarily so that you can help us test it and make it better; it should not be used in production."
-      contributing_text: "Want to look for bugs and contribute? Read the <a>Contributing docs</a>."
-      extension_text: "Interested in developing extensions? Read the <a>Extension docs</a>."
-      features_text: "Got an idea to improve a feature? Tell us about it under the <a>Features tag</a>."
-      support_text: "Found a bug? Please report it in our forum, under the <a>Support tag</a>."
-      troubleshooting_text: "Having problems? Follow the instructions in the <a>Troubleshooting docs</a>."
-      version_text: "Thanks for trying out Flarum! You are running version {version}."
-      welcome_text: "Welcome to Flarum Beta!"
+      beta_warning_text: "Diễn đàn đang được cùng cấp với <strong>bản dùng thử</strong> vì thế bạn có thể giúp chúng tôi bằng việc phát hiện lỗi và cùng gỡ lỗi; không nên triển khai phần mềm ở môi trường chạy chính."
+      contributing_text: "Bạn muốn đóng góp và tìm kiếm các lỗi? Đọc thêm ở mục<a>tài liệu hướng dẫn đóng góp</a>."
+      extension_text: "Bạn muốn phát triển tiện ích mở rộng mới? Đọc thêm phần tài liệu về <a>tiện ích mở rộng</a>."
+      features_text: "Bạn muốn góp ý chức năng mới? Vui lòng thông báo tới chúng tôi tại mục <a>Features tag</a>."
+      support_text: "Phát hiện lỗi? Vui lòng đăng bài tại diễn đàn flarum, tại mục <a>Support tag</a>."
+      troubleshooting_text: "Gặp vấn đề? Xem hướng dẫn ở mục <a>tài liệu gỡ lỗi</a>."
+      version_text: "Cảm ơn bạn đã dùng thử Flarum! Bạn đang chạy ở phiên bản{version}."
+      welcome_text: "Chào mừng  Flarum Beta!"
 
     # These translations are used in the Edit Custom CSS modal dialog.
     edit_css:
@@ -88,7 +94,7 @@ core:
       dashboard_button: Bảng điều khiển
       dashboard_text: Your forum at a glance.
       extensions_button: Phần mở rộng
-      extensions_text: Add extra functionality to your forum and make it your own.
+      extensions_text: Thêm các tiện ích mở rộng vào diễn đàn.
       permissions_button: Quyền truy cập
       permissions_text: Thiết lập những người có quyền xem và thao tác.
 
@@ -309,7 +315,7 @@ core:
       submit_button: => core.ref.sign_up
       title: => core.ref.sign_up
       username_placeholder: => core.ref.username
-      welcome_text: "Welcome, {username}!"
+      welcome_text: "Xin chào, {username}!"
 
     # These translations are used in the user profile page and profile popup.
     user:
@@ -328,7 +334,7 @@ core:
     user_controls:
       button: Controls
       delete_button: => core.ref.delete
-      delete_confirmation: "Are you sure you want to delete this user? All of the user's posts will be deleted."
+      delete_confirmation: "Bạn có chắc xoá người dùng này? Việc xoá sẽ đồng thời xoá tất cả bài viết của người dùng."
       edit_button: => core.ref.edit
 
   # Translations in this namespace are used by the forum and admin interfaces.

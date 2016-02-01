@@ -9,7 +9,7 @@ flarum-lock:
 
     # These translations are used in the Permissions page of the admin interface.
     permissions:
-      lock_discussions_label: Lock discussions
+      lock_discussions_label: Khoá cuộc thảo luận
 
   # Translations in this namespace are used by the forum user interface.
   forum:
@@ -34,4 +34,4 @@ flarum-lock:
 
     # These translations are used in the Settings page.
     settings:
-      notify_discussion_locked_label: Someone locks a discussion I started
+      notify_discussion_locked_label: Cuộc thảo luận bạn tham gia bị khoá
