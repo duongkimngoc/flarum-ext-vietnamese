@@ -1,6 +1,6 @@
 # Gói ngôn ngữ Tiếng việt dành cho [Flarum](http://flarum.org/)
 
-French language pack to localize the Flarum forum software, its bundled extensions and libraries.
+Gói ngôn ngữ Tiếng việt dành cho Flarum.
 
 ## Thông tin
 
