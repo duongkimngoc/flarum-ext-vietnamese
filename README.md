@@ -55,5 +55,5 @@ Bạn có thể đóng góp mới các nội dung về ngôn ngữ. Hoặc truy 
 Các liên kết
 
 - Diễn đàn [Cộng đồng flarum](https://discuss.flarum.org).
-- Diễn đàn Lập trình PHP [ cộng đồng flarum](http://diendan.laptrinhphp.edu.vn).
+- Diễn đàn [Lập trình PHP](http://diendan.laptrinhphp.edu.vn).
 
