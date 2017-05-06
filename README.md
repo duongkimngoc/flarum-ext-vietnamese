@@ -1,12 +1,12 @@
 # Gói ngôn ngữ Tiếng việt dành cho [Flarum](http://flarum.org/)
 
-Gói ngôn ngữ Tiếng việt dành cho Flarum.
+Gói ngôn ngữ Tiếng việt dành cho Flarum được phát triển tiếp bởi GaNuongLaChanh
 
 ## Thông tin
 
 Gói ngôn ngữ được tương thích với những thành phần mở rộng sau:
 
-- [Flarum](https://github.com/flarum/core)'s Core [0.1.0 Beta 4](https://github.com/flarum/core/releases/tag/v0.1.0-beta.4)
+- [Flarum](https://github.com/flarum/core)'s Core [0.1.0 Beta 6](https://github.com/flarum/core/releases/tag/v0.1.0-beta.6)
   - Phần mở rộng:
     - [Akismet](https://github.com/flarum/akismet) [0.1.0 Beta 3](https://github.com/flarum/akismet/releases/tag/v0.1.0-beta.3)
     - [Approval](https://github.com/flarum/approval) [0.1.0 Beta 3](https://github.com/flarum/approval/releases/tag/v0.1.0-beta.3)
@@ -35,13 +35,13 @@ Released under the MIT license. Xem thêm mục [license terms](https://github.c
 Dùng trình quản lý gói trong dự án của bạn và chạy dòng lệnh sau:
 
 ```
-composer require laptrinhphp/flarum-ext-vietnamese
+composer require ganuonglachanh/flarum-ext-vietnamese
 ```
 
 
 ### Cách cài đặt thông thường
 
-1. Tải [phiên bản mới nhất tại](https://github.com/laptrinhphp/flarum-ext-vietnamese/releases) (hoặc [tải phiển bản đang phát triển mới nhất tại](https://github.com/laptrinhphp/flarum-ext-vietnamese/archive/master.zip)).
+1. Tải [phiên bản mới nhất tại](https://github.com/ganuonglachanh/flarum-ext-vietnamese/releases) (hoặc [tải phiển bản đang phát triển mới nhất tại](https://github.com/ganuonglachanh/flarum-ext-vietnamese/archive/master.zip)).
 2. Giải nép file bằng [a file archiver](https://en.wikipedia.org/wiki/Comparison_of_file_archivers).
 3. Truy cập vào server của bản qua [FTP](https://en.wikipedia.org/wiki/File_Transfer_Protocol), [SSH](https://en.wikipedia.org/wiki/Secure_Shell) hoặc trình quản lý của bạn.
 4. Chuyển qua thư mục *extensions/* tại mục cài đặt của Flarum.
