@@ -86,7 +86,7 @@ core:
     email:
       account_heading: SMTP Account
       addresses_heading: Địa chỉ email để gửi
-      driver_label: Treiber
+      driver_label: Driver
       encryption_label: Encoding
       from_label: Từ
       heading: => core.ref.email
