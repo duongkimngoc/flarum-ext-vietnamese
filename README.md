@@ -1,6 +1,6 @@
 # Gói ngôn ngữ Tiếng việt dành cho [Flarum](http://flarum.org/)
 
-Gói ngôn ngữ Tiếng việt dành cho Flarum được phát triển tiếp bởi GaNuongLaChanh
+Gói ngôn ngữ Tiếng việt dành cho Flarum được phát triển tiếp bởi GaNuongLaChanh từ bản gốc của laptrinhphp
 
 ## Thông tin
 
