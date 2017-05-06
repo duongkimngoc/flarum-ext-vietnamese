@@ -319,7 +319,7 @@ core:
       now_link: Hiện tại
       original_post_link: Bài viết gốc
       unread_text: "{count} chưa đọc"
-      viewing_text: "{index} of {count} post|{index} of {count} posts"
+      viewing_text: "{index} của {count} post|{index} của {count} posts"
 
     # These translations are displayed between posts in the post stream.
     post_stream:
