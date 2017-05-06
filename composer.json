@@ -1,7 +1,7 @@
 {
-    "name": "laptrinhphp/vietnamese",
+    "name": "ganuonglachanh/vietnamese",
     "type": "flarum-extension",
-    "description": "Vietnam language pack for Flarum.",
+    "description": "Vietnam language pack for Flarum. Updated by GaNuongLaChanh",
     "keywords": ["locale"],
     "license": "MIT",
     "homepage": "https://github.com/laptrinhphp/flarum",
