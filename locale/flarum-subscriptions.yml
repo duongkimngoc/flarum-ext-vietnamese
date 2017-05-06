@@ -28,6 +28,7 @@ flarum-subscriptions:
 
     # These translations are used in the Settings page.
     settings:
+      follow_after_reply_label: Folge Diskussionen automatisch, denen du geantwortet hast 
       notify_new_post_label: Có phản hồi mới trong bài viết bạn theo dõi
 
     # These translations are used in the subscription menu displayed to the right of the post stream.
