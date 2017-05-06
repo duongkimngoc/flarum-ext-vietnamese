@@ -20,7 +20,7 @@ Gói ngôn ngữ được tương thích với những thành phần mở rộng
     - [Sticky](https://github.com/flarum/sticky) [0.1.0 Beta 6](https://github.com/flarum/sticky/releases/tag/v0.1.0-beta.6)
     - [Subscriptions](https://github.com/flarum/subscriptions) [0.1.0 Beta 6](https://github.com/flarum/subscriptions/releases/tag/v0.1.0-beta.6)
     - [Suspend](https://github.com/flarum/suspend) [0.1.0 Beta 6](https://github.com/flarum/suspend/releases/tag/v0.1.0-beta.6)
-    - [Tags](https://github.com/flarum/tags) [0.1.0 Beta 6](https://github.com/flarum/tags/releases/tag/v0.1.0-beta.6)
+    - [Tags](https://github.com/flarum/tags) [0.1.0 Beta 7](https://github.com/flarum/tags/releases/tag/v0.1.0-beta.7)
     - [Twitter Login](https://github.com/flarum/auth-twitter) [0.1.0 Beta 6](https://github.com/flarum/auth-twitter/releases/tag/v0.1.0-beta.6)
   - Các thư viện:
     - [Laravel](https://github.com/laravel/laravel)'s Validation [5.1.11](https://github.com/laravel/laravel/releases/tag/v5.1.11)
@@ -50,10 +50,9 @@ composer require ganuonglachanh/flarum-ext-vietnamese
 
 ## Đóng góp
 
-Bạn có thể đóng góp mới các nội dung về ngôn ngữ. Hoặc truy cập diễn đàn Lập trình PHP để cùng học hỏi các thủ thuật mới nhất. 
+Bạn có thể đóng góp mới các nội dung về ngôn ngữ.
 
 Các liên kết
 
 - Diễn đàn [Cộng đồng flarum](https://discuss.flarum.org).
-- Diễn đàn [Lập trình PHP](http://diendan.laptrinhphp.edu.vn).
 
