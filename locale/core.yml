@@ -275,7 +275,7 @@ core:
 
     # These translations are used by the sorting control above the discussion list.
     index_sort:
-      latest_button: Mới nhât
+      latest_button: Mới nhất
       newest_button: Gần nhất
       oldest_button: Cũ nhất
       relevance_button: Phù hợp
