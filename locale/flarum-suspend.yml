@@ -18,11 +18,11 @@ flarum-suspend:
     suspend_user:
       indefinitely_label: Đình chỉ ngay
       limited_time_label: Dình chỉ trong thời gian...
-      limited_time_days_text: " days"
+      limited_time_days_text: " ngày"
       not_suspended_label: Chưa đình chỉ
       status_heading: Tình trạng
       submit_button: => core.ref.save_changes
-      title: "Suspend {user}"
+      title: "Đình chỉ {user}"
 
     # These translations are displayed as tooltips for user badges.
     user_badge:
