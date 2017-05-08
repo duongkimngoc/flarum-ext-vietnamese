@@ -16,7 +16,7 @@ flarum-subscriptions:
     discussion_controls:
       follow_button: => flarum-subscriptions.ref.follow
       unfollow_button: Bỏ theo dõi
-      unignore_button: Unignore
+      unignore_button: Hủy Bỏ qua
 
     # These translations are used on the index page, peripheral to the discussion list.
     index:
@@ -24,7 +24,7 @@ flarum-subscriptions:
 
     # These translations are used by the Notifications dropdown, a.k.a. "the bell".
     notifications:
-      new_post_text: "{username} posted"
+      new_post_text: "{username} đã viết"
 
     # These translations are used in the Settings page.
     settings:
