@@ -303,7 +303,7 @@ core:
 
     # These translations are used by tooltips displayed for individual posts.
     post:
-      edited_text: Bearbeitet
+      edited_text: Đã sửa
       edited_tooltip: "{username} đã cập nhật {ago}"
       number_tooltip: "Bài viết #{number}"
 
