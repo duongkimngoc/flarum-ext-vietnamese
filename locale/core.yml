@@ -139,7 +139,7 @@ core:
       delete_posts_forever_label: Xóa bài viết mãi mãi
       edit_and_delete_posts_label: Chỉnh sửa và xóa bài viết
       global_heading: Toàn cục
-      moderate_heading: Ban quản trị
+      moderate_heading: Quản trị
       new_group_button: Thêm nhóm mới
       participate_heading: Tham gia
       read_heading: Đọc
