@@ -256,7 +256,7 @@ core:
 
     # These translations are used in the header and session dropdown menu.
     header:
-      admin_button: Ban quản trị
+      admin_button: Quản trị
       log_in_link: => core.ref.log_in
       log_out_button: => core.ref.log_out
       profile_button: Hồ sơ
