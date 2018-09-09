@@ -228,7 +228,7 @@ core:
       delete_confirmation: "Bạn chắc chắn muốn xóa thảo luận này chứ?"
       delete_forever_button: => core.ref.delete_forever
       log_in_to_reply_button: Bình luận
-      rename_button: core.ref.rename
+      rename_button: => core.ref.rename
       rename_text: "Nhập tiêu đề mới cho thảo luận:"
       reply_button: => core.ref.reply
       restore_button: => core.ref.restore
