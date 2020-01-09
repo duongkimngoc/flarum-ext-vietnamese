@@ -1,13 +1,13 @@
 # Gói ngôn ngữ Tiếng việt dành cho [Flarum](http://flarum.org/)
 
-Gói ngôn ngữ Tiếng việt dành cho Flarum được phát triển tiếp bởi GaNuongLaChanh từ bản gốc của laptrinhphp
+Gói ngôn ngữ Tiếng việt dành cho Flarum
 
 ## Thông tin
 
 Gói ngôn ngữ được tương thích với những thành phần mở rộng sau:
 
-- [Flarum](https://github.com/flarum/core)'s Core [0.1.0 Beta 6](https://github.com/flarum/core/releases/tag/v0.1.0-beta.6)
-  - Phần mở rộng:
+- [Flarum](https://github.com/flarum/core)'s Core [0.1.0 Beta 11](https://github.com/flarum/core/releases/tag/v0.1.0-beta.6)
+  - Phần mở rộng: (TODO: version chưa update chính xác)
     - [Akismet](https://github.com/flarum/akismet) [0.1.0 Beta 6](https://github.com/flarum/akismet/releases/tag/v0.1.0-beta.6)
     - [Approval](https://github.com/flarum/approval) [0.1.0 Beta 6](https://github.com/flarum/approval/releases/tag/v0.1.0-beta.6)
     - [Facebook Login](https://github.com/flarum/auth-facebook) [0.1.0 Beta 6](https://github.com/flarum/auth-facebook/releases/tag/v0.1.0-beta.6)
@@ -35,7 +35,7 @@ Released under the MIT license. Xem thêm mục [license terms](https://github.c
 Dùng trình quản lý gói trong dự án của bạn và chạy dòng lệnh sau:
 
 ```
-composer require ganuonglachanh/flarum-ext-vietnamese
+composer require dkn/flarum-ext-vietnamese
 ```
 
 

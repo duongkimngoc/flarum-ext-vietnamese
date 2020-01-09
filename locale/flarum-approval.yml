@@ -11,7 +11,7 @@ flarum-approval:
     permissions:
       approve_posts_label: Phê duyệt bài viết
       reply_without_approval_label: Trả lời nhưng không phê duyệt
-      start_discussions_without_approval_label: Tạo thảo luận mà không duyệt
+      start_discussions_without_approval_label: Trả lời nhưng không phê duyệt
 
   # Translations in this namespace are used by the forum user interface.
   forum:
@@ -22,7 +22,7 @@ flarum-approval:
 
     # These translations are displayed in the post header.
     post:
-      awaiting_approval_text: Chờ phê duyệt
+      awaiting_approval_text: => flarum-approval.ref.awaiting_approval
 
     # These translations are used by the post control buttons.
     post_controls:

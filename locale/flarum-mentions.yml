@@ -9,6 +9,7 @@ flarum-mentions:
 
     # These translations are used by the composer (reply autocompletion function).
     composer:
+      mention_tooltip: Nhắc đến một người hoặc bài viết
       reply_to_post_text: "Phản hồi tới #{number}"
 
     # These translations are used by the Notifications dropdown, a.k.a. "the bell".
@@ -30,6 +31,7 @@ flarum-mentions:
     settings:
       notify_post_mentioned_label: Bài viết của bạn có phản hồi mới
       notify_user_mentioned_label: Bạn được nhắc tới trong bài viết
+
     # These translations are used in the user profile page and profile popup.
     user:
       mentions_link: Nhắc đến

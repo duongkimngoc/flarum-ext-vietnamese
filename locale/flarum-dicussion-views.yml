@@ -1,0 +1,16 @@
+flarum-dicussion-views:
+
+  ##
+  # UNIQUE KEYS - The following keys are used in only one location each.
+  ##
+
+  # Translations in this namespace are used by the forum user interface.
+  forum:
+
+    # These translations are used by the composer (emoji autocompletion function).
+    discussion_controls:
+      resetviews_button: Reset lượt xem
+
+  admin:
+    permissions:
+      reset_views_label: Reset lượt xem

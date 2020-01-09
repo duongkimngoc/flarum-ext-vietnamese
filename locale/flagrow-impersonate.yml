@@ -1,0 +1,17 @@
+flagrow-impersonate:
+
+  ##
+  # UNIQUE KEYS - The following keys are used in only one location each.
+  ##
+
+  # Translations in this namespace are used by the forum user interface.
+  forum:
+
+    # These translations are used by the composer (emoji autocompletion function).
+    user_controls:
+      impersonate_button: Đăng nhập dưới danh nghĩa người này
+
+  admin:
+    permissions:
+      login: Đăng nhập dưới danh nghĩa tài khoản khác
+

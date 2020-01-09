@@ -13,14 +13,16 @@ flarum-tags:
 
     # These translations are used in the Edit Tag modal dialog.
     edit_tag:
-      color_label: Màu
+      color_label: => core.ref.color
       delete_tag_button: Xóa thẻ
       delete_tag_confirmation: "Bạn muốn xóa thẻ này? Bài viết có gắn thẻ sẽ KHÔNG bị xóa."
       description_label: Mô tả
       hide_label: Ẩn tất cả
+      icon_label: => core.ref.icon
+      icon_text: => core.ref.icon_text
       name_label: => flarum-tags.ref.name
       name_placeholder: => flarum-tags.ref.name
-      slug_label: Bí danh
+      slug_label: Slug
       submit_button: => core.ref.save_changes
       title: => flarum-tags.ref.create_tag
 
@@ -71,6 +73,9 @@ flarum-tags:
     discussion_controls:
       edit_tags_button: Cập nhật thẻ
 
+    header:
+      back_to_tags_tooltip: Trở lại danh sách thẻ
+
     # These translations are used on the index page, peripheral to the discussion list.
     index:
       more_link: Thêm...
@@ -79,10 +84,10 @@ flarum-tags:
 
     # These translations are displayed between posts in the post stream.
     post_stream:
-      added_tags_text: "{username} đã gắn thẻ {tagsAdded}."
       added_and_removed_tags_text: "{username} đã gắn thẻ {tagsAdded} và xóa thẻ {tagsRemoved}."
+      added_tags_text: "{username} đã gắn thẻ {tagsAdded}."
       removed_tags_text: "{username} đã xóa thẻ {tagsRemoved}."
-      tags_text: "{tags} tag|{tags} tags"
+      tags_text: "{tags} thẻ|{tags} thẻ"
 
   # Translations in this namespace are used by the forum and admin interfaces.
   lib:
