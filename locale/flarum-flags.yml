@@ -44,6 +44,7 @@ flarum-flags:
     # These translations are used by the frame displayed around flagged posts.
     post:
       dismiss_flag_tooltip: Bỏ gắn cờ
+      dismiss_flag_button: Bỏ gắn cờ
       flagged_by_text: "{username} đã gắn cờ"
       flagged_by_with_reason_text: "{username} đã gắn cờ vì {reason}"
 

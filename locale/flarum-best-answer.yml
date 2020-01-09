@@ -1,7 +1,7 @@
 flarum-best-answer:
   forum:
     best_answer_button: Câu trả lời hay nhất
-    best_answer_label: chọn bởi {username}
+    best_answer_label: "chọn bởi {username}"
     this_best_answer: Đây là câu trả lời hay nhất
     remove_best_answer: Bỏ đánh dấu câu trả lời hay nhất
   admin:
