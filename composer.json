@@ -17,7 +17,7 @@
     },
     "extra": {
         "flarum-extension": {
-            "title": "Tiếng việt",
+            "title": "Tiếng Việt",
             "icon": {
                 "image": "icon.svg",
                 "backgroundColor": "#00247d",
@@ -27,7 +27,7 @@
         },
         "flarum-locale": {
             "code": "vi",
-            "title": "Tiếng việt"
+            "title": "Tiếng Việt"
         }
     }
 }

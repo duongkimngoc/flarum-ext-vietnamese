@@ -1,14 +1,20 @@
 flarum-best-answer:
-  forum:
-    best_answer_button: Câu trả lời hay nhất
-    best_answer_label: "chọn bởi {username}"
-    this_best_answer: Đây là câu trả lời hay nhất
-    remove_best_answer: Bỏ đánh dấu câu trả lời hay nhất
-  admin:
-    permissions:
-      best_answer: Chọn câu trả lời hay nhất
-      best_answer_not_own_discussion: Chọn câu trả lời cho thảo luận của người khác
-    settings:
-      title: Cài đặt Best Answer
-      allow_select_own_post: Cho phép tự chọn bài của mình
-      select_best_answer_reminder_days: Nhắc người dùng chọn câu trả lời hay nhất sau bao nhiêu ngày
+    admin:
+        permissions:
+            best_answer: Chọn câu trả lời hay nhất (thảo luận của mình)
+            best_answer_not_own_discussion: Chọn câu trả lời hay nhất (thảo luận của người khác)
+        settings:
+            title: "Cài đặt Best Answer"
+            allow_select_own_post: "Cho phép tự chọn bài của mình"
+            select_best_answer_reminder_days: Nhắc người dùng chọn câu trả lời hay nhất sau bao nhiêu ngày
+    forum:
+        this_best_answer: "Đây là câu trả lời hay nhất"
+        remove_best_answer: "Bỏ đánh dấu câu trả lời hay nhất"
+        header_best_answer: "Được người hỏi đánh dấu là câu trả lời hay nhất"
+        best_answer_button: Câu trả lời hay nhất
+        best_answer_label: bởi <a>{username}</a>
+        best_answer: => flarum-best-answer.ref.best_answer
+        notification:
+            content: Xin mời chọn một câu trả lời hay nhất nếu câu hỏi của bạn đã được trả lời.
+    ref:
+      best_answer: 'Câu trả lời hay nhất'
