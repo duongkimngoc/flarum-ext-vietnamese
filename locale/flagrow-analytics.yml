@@ -1,0 +1,21 @@
+flagrow-analytics:
+  forum:
+    discussion_controls:
+      resetviews_button: Reset lượt xem
+  admin:
+    popup:
+      title: Analytics
+      section:
+        googleAnalytics: Google Analytics
+      field:
+        statusGoogle: Bật Google Analytics
+        statusPiwik: Bật Piwik
+        googleTrackingCode: Mã theo dõi Google Analytics
+        piwikUrl: piwikUrl
+        piwikSiteId: piwikSiteId
+        piwikTrackSubdomain: piwikTrackSubdomain
+        piwikPrependDomain: piwikPrependDomain
+        piwikHideAliasUrl: piwikHideAliasUrl
+        piwikTrackAccounts: piwikTrackAccounts
+        piwikAuthToken: piwikAuthToken
+        

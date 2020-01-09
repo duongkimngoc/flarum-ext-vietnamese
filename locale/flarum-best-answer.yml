@@ -4,7 +4,6 @@ flarum-best-answer:
     best_answer_label: chọn bởi
     this_best_answer: Đây là câu trả lời hay nhất
     remove_best_answer: Bỏ đánh dấu câu trả lời hay nhất
-
   admin:
     permissions:
       best_answer: Chọn câu trả lời hay nhất

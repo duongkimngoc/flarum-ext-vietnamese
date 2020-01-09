@@ -306,7 +306,7 @@ core:
       relevance_button: Phù hợp
       top_button: Hot nhất
       popular_button: Phổ biến
-      unpopuler_button: Không phổ biến
+      unpopular_button: Không phổ biến
 
     # These translations are used in the Log In modal dialog.
     log_in:
