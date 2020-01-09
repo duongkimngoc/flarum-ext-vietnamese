@@ -1,13 +1,5 @@
 flarum-best-answer:
-
-  ##
-  # UNIQUE KEYS - The following keys are used in only one location each.
-  ##
-
-  # Translations in this namespace are used by the forum user interface.
   forum:
-
-    # These translations are used by the composer (emoji autocompletion function).
     best_answer_button: Câu trả lời hay nhất
     best_answer_label: chọn bởi
     this_best_answer: Đây là câu trả lời hay nhất
@@ -18,5 +10,6 @@ flarum-best-answer:
       best_answer: Chọn câu trả lời hay nhất
       best_answer_not_own_discussion: Chọn câu trả lời cho thảo luận của người khác
     settings:
-      allow_select_own_post: 
+      title: Cài đặt Best Answer
+      allow_select_own_post: Cho phép tự chọn bài của mình
       select_best_answer_reminder_days: Nhắc người dùng chọn câu trả lời hay nhất sau bao nhiêu ngày
