@@ -1,5 +1,5 @@
 {
-    "name": "dkn/vietnamese",
+    "name": "dkn/flarum-ext-vietnamese",
     "type": "flarum-extension",
     "description": "Vietnam language pack for Flarum. Updated by DKN",
     "keywords": ["locale", "vietnam", "vietnamese"],
