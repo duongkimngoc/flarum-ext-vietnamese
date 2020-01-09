@@ -9,7 +9,7 @@ fof-merge-discussions:
       type_from_label: Hợp nhất cuộc thảo luận này thành một cuộc thảo luận khác
       type_from_help_text: Chọn mục tiêu thảo luận để hợp nhất với <b>{title}</b>.
 
-      load_preview_button: Preview
+      load_preview_button: Xem trước
       submit_button: => fof-merge-discussions.ref.merge
 
     discussion:

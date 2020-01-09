@@ -39,7 +39,7 @@ flarum-subscriptions:
       ignoring_button: => flarum-subscriptions.ref.ignoring
       ignoring_text: Ngừng nhận thông báo. Ẩn các danh sách thảo luận.
       not_following_button: Chưa theo dõi
-      not_following_text: "Be notified only when @mentioned."
+      not_following_text: "Chỉ được thông báo khi được nhắc tên."
       notify_alert_tooltip: Nhận thông báo khi có bài viết mới
       notify_email_tooltip: Nhận email mỗi khi có bài viết mới
 
